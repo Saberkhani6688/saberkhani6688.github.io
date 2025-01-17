@@ -4,6 +4,9 @@ main:
   - title: "About"
     url: /about/
 
+#  - title: "Publications"
+#    url: /publications/
+
   - title: "Research"
     url: /research/
 
@@ -13,6 +16,14 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
 
   - title: "CV"
     url: /cv/
+
+#  - title: "Guide"
+#    url: /markdown/
