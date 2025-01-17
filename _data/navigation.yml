@@ -4,14 +4,11 @@ main:
   - title: "About"
     url: /about/
 
-#  - title: "Publications"
-#    url: /publications/
-
   - title: "Research"
     url: /research/
 
-#  - title: "Datasets"
-#    url: /datasets/
+  - title: "Datasets"
+    url: /datasets/
 
   - title: "Teaching"
     url: /teaching/
