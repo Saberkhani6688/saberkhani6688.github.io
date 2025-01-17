@@ -1,15 +1,14 @@
 ---
-permalink: /
-title: "About"
-excerpt: "About"
+layout: archive
+title: "Datasets"
+permalink: /datasets/
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-I am a Postdoctoral Fellow at the [Japan Program](https://aparc.fsi.stanford.edu/japan) at Stanford University's Shorenstein Asia-Pacific Research Center.
+## Published Datasets
 
-My research focuses on democratic institutions and electoral competition, primarily within frameworks of comparative politics and comparative political economy. I am interested in how democratic institutions, shaping individual incentives through the contours defined by the rules of the game, influence representational and economic outcomes. My most recently published work shows how the historical accumulation of experience with democracy contributes to greater gender balance in cabinets (with Jacob Nyrup and Stuart Bramwell, _American Political Science Review_).
+Khani, Saber, Mohammad Ali Kadivar. "Sanctuaries or Battlegrounds - State Penetration in Places of Worship, University Campuses, and State Bureaucracy for Pro-Government Mobilization Evidence from Iran (2015-2019)." _Harvard Dataverse, V1_. ([link]([https://doi.org/10.1093/acrefore/9780190228637.013.616](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/78WXRZ)))
 
-I apply a mix of qualitative and quantitative methods, combining strategies such as direct observation, interviews, historical analysis, experimental designs, and statistical methods. The training I received before graduate school enhances my approach, for instance, when examining the case of Japan or studying fiscal and financial politics in advanced industrialized countries. Before pursuing a Ph.D. at Yale University, I worked on a fixed-income trading floor (interest rates and derivatives) at a Japanese investment bank in New York City, covering global central banks and Japanese institutional investors. I received a Master of Arts degree in East Asian Studies from Yale and a Bachelor of Arts degree in Government and Asian and Middle Eastern Studies from Dartmouth College.
+
+## Datasets in Progress
+
