@@ -28,27 +28,8 @@ Hutchinson, Annabelle, Elizabeth K. McGuire, Frances McCall Rosenbluth, and Hika
 
 "Deflationary Life-Cycle Expectations in Aging Societies: Experimental Evidence From Japan."
 
-## Articles in Progress
 
-"Mixed Incentives and Unstable Party Competition in Mixed-Member Majoritarian Systems."
-
-"A Logical Model of Party Competition in Mixed-Member Majoritarian Electoral Systems," with Yuki Atsusaka.
-
-“Do Firms Benefit from the Revolving Door? Evidence from Japan,” with Trevor Incerti.
-
-“Amakudata: A Dataset of Bureaucratic Revolving Door Hires,” and accompanying online dashboard, _Amakudashboard_ ([link](https://trevorincerti.shinyapps.io/amakudashboard/)), with Trevor Incerti, Sayumi Miyano, and Diana Stanescu.
-
-"Does Equalizing Household Work Affect Women’s Political Preferences? Evidence from a Field Experiment in Japan," with Trevor Incerti, Changwook Ju, and Colin Moreshead.
-
-
-## Book Manuscripts in Progress
-
-_Electoral Dominance in Economic Stagnation: The Political Economy of Contemporary Japan_.
-
-_Inside the Revolving Door: Government-Business Relations in Contemporary Japan_, with Trevor Incerti.
-
-
-## Media Publications
+## Media Coverage
 
 “The Blocked Road to a Woman Prime Minister in Japan,” with Charles Crabtree and Yoshikuni Ono, _The Hill_, October 12, 2021. ([link](https://thehill.com/opinion/international/575875-the-blocked-road-to-a-woman-prime-minister-in-japan))
 
