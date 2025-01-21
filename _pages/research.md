@@ -7,9 +7,9 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Khani, Saber, Mohammad Ali Kadivar. 2024. "Sanctuaries or Battlegrounds? State Penetration in Places of Worship, University Campuses, and State Bureaucracy for Pro-Government Mobilization: Evidence from Iran (2015–2019)." Comparative Political Studies. ([[link][https://doi.org/10.1093/acrefore/9780190228637.013.616](https://doi.org/10.1177/00104140231194914))
+Khani, Saber, Mohammad Ali Kadivar. 2024. "Sanctuaries or Battlegrounds? State Penetration in Places of Worship, University Campuses, and State Bureaucracy for Pro-Government Mobilization: Evidence from Iran (2015–2019)." Comparative Political Studies. ([link][https://doi.org/10.1093/acrefore/9780190228637.013.616](https://doi.org/10.1177/00104140231194914))
 
-Moorman, Sara, Saber Khani. 2024. "High School Curriculum and Cognitive Function in the Eighth Decade of Life." Alzheimer Disease & Associated Disorders. ([[link](10.1097/WAD.0000000000000629)](https://pubmed.ncbi.nlm.nih.gov/39113207/))
+Moorman, Sara, Saber Khani. 2024. "High School Curriculum and Cognitive Function in the Eighth Decade of Life." Alzheimer Disease & Associated Disorders. ([link](10.1097/WAD.0000000000000629)](https://pubmed.ncbi.nlm.nih.gov/39113207/))
 
 
 ## Working Papers
@@ -24,6 +24,6 @@ Moorman, Sara, Saber Khani. 2024. "High School Curriculum and Cognitive Function
 
 ## Media Coverage
 
-“Labor Organizing on the Rise Among Iranian Oil Workers.,” with Mohammad Ali Kadivar, Peyman Jafari, and Mehdi Hoseini, _Middle East Report Online_, October 25, 2021. ([[link] (https://merip.org/2021/08/labor-organizing-on-the-rise-among-iranian-oil-workers/))
+“Labor Organizing on the Rise Among Iranian Oil Workers.,” with Mohammad Ali Kadivar, Peyman Jafari, and Mehdi Hoseini, _Middle East Report Online_, October 25, 2021. ([link] (https://merip.org/2021/08/labor-organizing-on-the-rise-among-iranian-oil-workers/))
 
-“Iran’s Protests Are Not Just About Gas Prices,” with Mohammad Ali Kadivar, and Abolfazl Sotoudeh, _Foreign Affairs_, December 4, 2019. ([[link] (https://www.foreignaffairs.com/articles/iran/2019-12-04/irans-protests-are-not-just-about-gas-prices))
+“Iran’s Protests Are Not Just About Gas Prices,” with Mohammad Ali Kadivar, and Abolfazl Sotoudeh, _Foreign Affairs_, December 4, 2019. ([link] (https://www.foreignaffairs.com/articles/iran/2019-12-04/irans-protests-are-not-just-about-gas-prices))
