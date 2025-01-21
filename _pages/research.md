@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Khani, Saber, Mohammad Ali Kadivar. 2024. "Sanctuaries or Battlegrounds? State Penetration in Places of Worship, University Campuses, and State Bureaucracy for Pro-Government Mobilization: Evidence from Iran (2015–2019)." Comparative Political Studies. ([https://doi.org/10.1093/acrefore/9780190228637.013.616](https://doi.org/10.1177/00104140231194914))
+Khani, Saber, Mohammad Ali Kadivar. 2024. "Sanctuaries or Battlegrounds? State Penetration in Places of Worship, University Campuses, and State Bureaucracy for Pro-Government Mobilization: Evidence from Iran (2015–2019)." Comparative Political Studies. ([[link][https://doi.org/10.1093/acrefore/9780190228637.013.616](https://doi.org/10.1177/00104140231194914))
 
 Moorman, Sara, Saber Khani. 2024. "High School Curriculum and Cognitive Function in the Eighth Decade of Life." Alzheimer Disease & Associated Disorders. ([[link](10.1097/WAD.0000000000000629)](https://pubmed.ncbi.nlm.nih.gov/39113207/))
 
