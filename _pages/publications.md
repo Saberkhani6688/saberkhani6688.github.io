@@ -19,6 +19,7 @@ Sara Moorman and **Saber Khani**. 2024. "High School Curriculum and Cognitive Fu
 
 "Wartime Losses and Political Gains: State-Led Mobilization Through War Memorials in Iran. Working paper with Mohammad Ali Kadivar. (Manuscript ready for submission)
 
+"Compliance on Campus: Universities and Pro-government Mobilization in Autocratic Regimes. Working paper with Mohammad Ali Kadivar. (Manuscript ready for submission)
 
 "Performative Representation Gender, Regime Type, and Ministerial Appointments" Working paper with Jalal Ferati and Akash Chopra. (Manuscript in writing stage)
 
