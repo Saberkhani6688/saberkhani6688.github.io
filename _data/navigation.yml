@@ -7,8 +7,8 @@ main:
   - title: "Dissertation"
     url: /dissertation/
 
-  - title: "Research"
-    url: /research/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Datasets"
     url: /datasets/
