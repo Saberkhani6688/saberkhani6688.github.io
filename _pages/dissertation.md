@@ -11,11 +11,11 @@ What mechanisms within the oil sector give rise to collective mobilization, and 
 ## Global Distribution of Petro Protests and Oil Infrastructure
 
 ### Petro Protests Distribution
-![Global Distribution of Petro Protests](/images/Petro Protest World Map - 2024-11-24.png)
+![Global Distribution of Petro Protests](/images/Petro%20Protest%20World%20Map%20-%202024-11-24.png)
 *Figure 1: Global Distribution of Petro Protests (2005-2019). Color intensity shows the frequency of protests, with darker shades representing higher protest activity.*
 
 ### Oil Sector Infrastructure
-![Global Distribution of Oil, Gas and Refineries](/images/Oil, Gas and Refineries World Map2 - 2024-11-24.png)
+![Global Distribution of Oil, Gas and Refineries](/images/Oil%2C%20Gas%20and%20Refineries%20World%20Map2%20-%202024-11-24.png)
 *Figure 2: Global Distribution of Oil Sector Facilities. Green triangles represent oil facilities, red circles represent gas facilities, and orange diamonds represent refineries.*
 
 ## Research Design
