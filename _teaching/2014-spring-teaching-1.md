@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Statistics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2025-summer-teaching-1
+venue: "Boston College"
+date: 2025-06-01
+location: "Chestnut Hill, MA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Developed and delivered an intensive 6-week online asynchronous course that immersed students in fundamental statistical concepts. This course emphasized hands-on learning and equipped students with proficiency in Stata statistical software, helping them to manipulate, analyze, and visualize data effectively. Through engaging content and practical exercises, participants gained a deeper understanding of statistical methodologies and their real-world applications.
