@@ -18,13 +18,13 @@ Mohammad Ali Kadivar and **Saber Khani**. "Wartime Losses and Political Gains: S
 
 Mohammad Ali Kadivar, **Saber Khani**, Vahid Abedini, and Samira Barzin. “The Contingency of Structures: Triggers and the Social Geography of Revolutionary Episodes in Iran 2018 - 2022.” Under review at _American Journal of Sociology_.
 
-Jalal Ferati*, **Saber Khani**, and Akash Chopra*. “From Presence to Prominence: Institutional Pathways and Women’s Appointments to Cabinets Across Regimes.” Under review at _British Journal of Political Science_.
+Jalal Ferati{*}, **Saber Khani**, and Akash Chopra{*}. “From Presence to Prominence: Institutional Pathways and Women’s Appointments to Cabinets Across Regimes.” Under review at _British Journal of Political Science_.
 
 **Saber Khani** and Sara Moorman. “Beyond the Classroom: How High School Extracurricular Activities Shape Cognitive Health in Later Life.” Under review at _The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.
 
 Eric Vogelsang, Sara Moorman, Alan Mijares, Zackary Zanotelli, Reza Tayari Ashtiani, and **Saber Khani**. “Older Adult Social Participation and Cognition: Illustrating Survey and Measurement Heterogeneity Across Studies.” Under review at _Social Indicators Research_.
 
-* graduate student co-authors
+{*} graduate student co-authors
 
 ## Working Papers
 
