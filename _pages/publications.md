@@ -14,7 +14,7 @@ Sara Moorman and **Saber Khani**. 2024. "High School Curriculum and Cognitive Fu
 
 ## Manuscripts Under Review
 
-Mohammad Ali Kadivar and **Saber Khani**. "Wartime Losses and Political Gains: State-Led Mobilization Through War Memorials in Iran." Under review at American Sociological Review.
+Mohammad Ali Kadivar and **Saber Khani**. "Wartime Losses and Political Gains: State-Led Mobilization Through War Memorials in Iran." Under review at _American Sociological Review._
 
 Mohammad Ali Kadivar, **Saber Khani**, Vahid Abedini, and Samira Barzin. “The Contingency of Structures: Triggers and the Social Geography of Revolutionary Episodes in Iran 2018 - 2022.” Under review at _American Journal of Sociology_.
 
