@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/introduction-statistics
 venue: "Boston College"
-date: 2025-06-01
 location: "Chestnut Hill, MA, USA"
 semester: ["Summer 2025"]
 ---
