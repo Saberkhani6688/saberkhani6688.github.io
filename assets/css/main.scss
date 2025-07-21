@@ -39,3 +39,7 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.greedy-nav .visible-links a:before {
+  background: #CC0000 !important;
+}
