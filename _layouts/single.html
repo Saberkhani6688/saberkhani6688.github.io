@@ -64,5 +64,13 @@ layout: default
         {{ content }}
       </section>
     </div>
+
+    {% unless page.collection == 'teaching' %}
+      {% if page.share %}
+        {% include social-share.html %}
+      {% endif %}
+      {% include post_pagination.html %}
+    {% endunless %}
+    
   </article>
 </div>
