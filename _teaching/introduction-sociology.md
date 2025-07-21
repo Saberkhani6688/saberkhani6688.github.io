@@ -28,7 +28,7 @@ semester: ["Fall 2022", "Spring 2023", "Fall 2023", "Spring 2024", "Fall 2024"]
 
 ## Course Evaluation Summary
 
-<iframe src="/files/Intro%25Sociology%25Dashboard.pdf" width="100%" height="100px" frameborder="0.50">
+<iframe src="/files/Intro%25Sociology%25Dashboard.pdf" width="100%" height="110px" frameborder="0.50">
   <p>Your browser does not support PDFs. 
   <a href="/files/Intro%25Sociology%25Dashboard.pdf">Download the PDF</a>.</p>
 </iframe>
