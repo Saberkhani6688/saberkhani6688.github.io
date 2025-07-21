@@ -172,51 +172,26 @@
    Priority plus navigation
    ========================================================================== */
 
-.greedy-nav .visible-links li a {
-  position: relative;
-
-  &:before {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 4px;
-    background: #CC0000; // ← maroon color
-    width: 100%;
-    transform: scaleX(0);
-    transition: transform 0.3s ease;
-    transform-origin: left;
-  }
-
-  &:hover:before {
-    transform: scaleX(1);
-  }
-}
-  .visible-links a {
-  position: relative;
-
-  &:before {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 4px;
-    background: #CC0000; // ← this is the maroon underline color
-    width: 100%;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
-    -webkit-transform: scaleX(0);
-        -ms-transform: scaleX(0);
-            transform: scaleX(0); // hide initially
-  }
-
-  &:hover:before {
-    -webkit-transform: scaleX(1);
-        -ms-transform: scaleX(1);
-            transform: scaleX(1); // reveal on hover
-  }
-}
-
+   .greedy-nav .visible-links li a {
+     position: relative;
+   
+     &:before {
+       content: "";
+       position: absolute;
+       left: 0;
+       bottom: 0;
+       height: 4px;
+       background: #CC0000; // ← maroon underline
+       width: 100%;
+       transform: scaleX(0);
+       transform-origin: left;
+       transition: transform 0.3s ease-in-out;
+     }
+   
+     &:hover:before {
+       transform: scaleX(1);
+     }
+   }
   .hidden-links {
     position: absolute;
     top: 100%;
