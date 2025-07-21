@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/introduction-sociology
 venue: "Boston College"
-date: 2023-08-01
 location: "Chestnut Hill, MA, USA"
 semester: ["Fall 2022", "Spring 2023", "Fall 2023", "Spring 2024", "Fall 2024"]
 ---
