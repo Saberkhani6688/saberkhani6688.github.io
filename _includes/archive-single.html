@@ -55,11 +55,10 @@
           <p><strong>Semester taught:</strong> {{ post.semester | join: ", " }}</p>
         {% endif %}
       {% endif %}
-    
-    {% elsif post.collection == 'publications' %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-    
-    {% elsif post.date %}
-      <p class="page__date">
-        <strong>
-          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
+    {% endif %}
+
+    {# Full content is intentionally removed #}
+    {# {{ post.content | markdownify }} #}
+
+  </article>
+</div>
