@@ -171,26 +171,9 @@
 /*
    Priority plus navigation
    ========================================================================== */
-
-   .greedy-nav .visible-links li a {
-     position: relative;
-   
-     &:before {
-       content: "";
-       position: absolute;
-       left: 0;
-       bottom: 0;
-       height: 4px;
-       background: #CC0000; // ← maroon underline
-       width: 100%;
-       transform: scaleX(0);
-       transform-origin: left;
-       transition: transform 0.3s ease-in-out;
-     }
-   
-     &:hover:before {
-       transform: scaleX(1);
-     }
+   .greedy-nav .visible-links .active {
+     font-weight: bold;
+     border-bottom: 2px solid $border-color; // or use $primary-color if desired
    }
   .hidden-links {
     position: absolute;
