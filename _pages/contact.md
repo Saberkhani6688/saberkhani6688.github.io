@@ -5,8 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Let's Connect
-
 I'm always happy to connect with colleagues, students, and collaborators. Please feel free to reach out using the information below or by filling out the contact form below.
 
 **Email**: [khanis@bc.edu](mailto:khanis@bc.edu)
