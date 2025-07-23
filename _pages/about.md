@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in the Department of Sociology at Boston College. My research bridges collective behavior and social movements, political sociology, computational social science, and quantitative methods, with a regional focus on the Middle East and North Africa.
+Welcome! I am a Ph.D. candidate in the Department of Sociology at Boston College. My research bridges collective behavior and social movements, political sociology, computational social science, and quantitative methods, with a regional focus on the Middle East and North Africa (MENA).
 
 My work examines how contentious politics emerge from the strategic interactions of diverse actors—state institutions, corporations, and local communities. I particularly focus on disputes over oil governance, the legitimacy of institutional arrangements, and the mechanisms that either provoke protests or promote stability. Grounded in field theory, my research offers a multilevel perspective on how political contention evolves and how institutional arrangements shape protest outcomes.
 
