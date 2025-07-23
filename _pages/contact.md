@@ -7,10 +7,12 @@ author_profile: true
 
 ## Let's Connect
 
-I'm always happy to connect with colleagues, students, and collaborators. Please feel free to reach out using the information below or by filling out the contact form.
+I'm always happy to connect with colleagues, students, and collaborators. Please feel free to reach out using the information below or by filling out the contact form below.
 
-**Email**: [khanis@bc.edu](mailto:khanis@bc.edu)  
+**Email**: [khanis@bc.edu](mailto:khanis@bc.edu)
+
 **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=0c2asYoAAAAJ&hl=en)  
+
 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/saberkhani/)
 
 ---
