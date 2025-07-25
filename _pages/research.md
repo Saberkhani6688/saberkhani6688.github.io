@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "From Fields to Streets: Oil Industry and Petro Protests"
-permalink: /dissertation/
+permalink: /Research/
 author_profile: true
 ---
 
