@@ -11,7 +11,7 @@ semester: ["Fall 2022", "Spring 2023", "Fall 2023", "Spring 2024", "Fall 2024"]
 
 ## 🏆 Award-Winning Teaching
 
-**Recipient of the [Donald J. White Teaching Excellence Award](https://www.bc.edu/bc-web/schools/mcas/sites/sociology/undergraduate/teaching-awards.html),** which honors outstanding graduate student instructors at Boston College. This award recognized the course’s excellence in content delivery, inclusive pedagogy, and student-centered learning.
+**Recipient of the [Donald J. White Teaching Excellence Award]([https://www.bc.edu/bc-web/schools/mcas/sites/sociology/undergraduate/teaching-awards.html](https://www.bc.edu/bc-web/academics/sites/center-for-teaching-excellence/programs-events/graduate-student-programs/graduate-student-teaching-recognition-ceremony.html)),** which honors outstanding graduate student instructors at Boston College. This award recognized the course’s excellence in content delivery, inclusive pedagogy, and student-centered learning.
 
 ---
 
