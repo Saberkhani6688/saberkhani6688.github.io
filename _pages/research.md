@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "From Fields to Streets: Oil Industry and Petroprotests"
+title: "The Petro Field Uncovered: Mapping Oil, Corruption, and Protest"
 permalink: /Research/
 author_profile: true
 ---
