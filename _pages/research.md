@@ -19,7 +19,6 @@ This field-centric lens foregrounds how:
 
 - **Executive corruption** acts as an endogenous field disruption, eroding shared governance norms.
 - **Ownership structure** (NOCs vs. IOCs) conditions how corruption is perceived and politicized.
-- **Moral economy expectations** transform grievances into moral claims of betrayal.
 
 ## Conceptual Innovation: What is a Petroprotest?
 
@@ -42,7 +41,7 @@ This study employs a **multi-scalar research design** that zooms from global pat
    - Grid-cell models reveal protests cluster near oil sites, especially where corruption is high  
    - The protest effect decays over distance but remains robust under high corruption
 
-3. **Original Survey in Iraq (2023–2024)**  
+3. **Original Survey in Iraq**  
    - Majority of respondents attribute protests to executive corruption  
    - NOCs are perceived as more corrupt than IOCs  
    - These perceptions are strongly associated with protest participation
@@ -84,7 +83,3 @@ This research makes the following contributions:
 ### Oil Sector Infrastructure
 ![Oil Infrastructure Map](/images/Oil%2C%20Gas%20and%20Refineries%20World%20Map2%20-%202024-11-24.png)
 *Figure 2: Triangles = oil fields; Circles = gas facilities; Diamonds = refineries.*
-
----
-
-[Download Full Research Article (PDF)](/files/Job_Market_Paper.pdf)
