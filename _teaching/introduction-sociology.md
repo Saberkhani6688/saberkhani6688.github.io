@@ -9,12 +9,22 @@ location: "Chestnut Hill, MA, USA"
 semester: ["Fall 2022", "Spring 2023", "Fall 2023", "Spring 2024", "Fall 2024"]
 ---
 
-- Created and taught an engaging and comprehensive undergraduate course in multiple semesters, focusing on foundational sociological concepts.
+## 🏆 Award-Winning Teaching
+
+**Recipient of the [Donald J. White Teaching Excellence Award](https://www.bc.edu/bc-web/schools/mcas/sites/sociology/undergraduate/teaching-awards.html),** which honors outstanding graduate student instructors at Boston College. This award recognized the course’s excellence in content delivery, inclusive pedagogy, and student-centered learning.
+
+---
+
+## Course Description
+
+- Created and taught an engaging and comprehensive undergraduate course across five semesters, focusing on foundational sociological concepts.
 - Students developed a strong foundation in classical and contemporary sociological theory and research methods.
 - They were trained to critically analyze pressing social issues, including inequality, race, gender, globalization, and institutional power structures, across both U.S. and international contexts.
 - The course emphasized analytical thinking, academic writing, and the application of sociological insight to real-world challenges.
 
-## Student Testimonials
+---
+
+## 📣 Student Testimonials
 
 > “Professor Khani is one of the best professors I’ve had. He cares so much about his students and about sociology. He made every topic interesting and engaging.”
 
@@ -26,9 +36,11 @@ semester: ["Fall 2022", "Spring 2023", "Fall 2023", "Spring 2024", "Fall 2024"]
 
 > “Professor Khani genuinely wants students to succeed—not just in class, but in life. I wish I could take another class with him.”
 
-## Course Evaluation Summary
+---
 
-<iframe src="/files/Intro%20Sociology%20Dashboard.pdf" width="100%" height="425px" frameborder="0.50">
+## 📊 Course Evaluation Summary
+
+<iframe src="/files/Intro%20Sociology%20Dashboard.pdf" width="100%" height="425px" frameborder="0.5">
   <p>Your browser does not support PDFs. 
   <a href="/files/Intro%20Sociology%20Dashboard.pdf">Download the PDF</a>.</p>
 </iframe>
