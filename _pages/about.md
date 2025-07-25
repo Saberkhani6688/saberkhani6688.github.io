@@ -3,9 +3,6 @@ permalink: /
 title: "About"
 excerpt: "About"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 Welcome! I am a Ph.D. candidate in the Department of Sociology at Boston College. My research bridges collective behavior and social movements, political sociology, computational social science, and quantitative methods, with a regional focus on the Middle East and North Africa (MENA).
