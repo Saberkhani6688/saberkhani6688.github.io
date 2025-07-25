@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "The Petro Field Uncovered: Mapping Oil, Corruption, and Protest"
-permalink: /Research/
+permalink: /research/
 author_profile: true
 ---
 
