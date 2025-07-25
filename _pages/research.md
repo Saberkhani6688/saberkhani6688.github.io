@@ -1,92 +1,90 @@
 ---
 layout: archive
-title: "From Fields to Streets: Oil Industry and Petro Protests"
+title: "From Fields to Streets: Oil Industry and Petroprotests"
 permalink: /Research/
 author_profile: true
 ---
 
 ## Overview
-What mechanisms within the oil sector give rise to collective mobilization, and how do governance structures and civil society engagement shape these dynamics? This dissertation introduces the concept of "petro protests" to explore how systemic grievances, executive corruption, and civil society engagement influence protests related to the oil sector.
 
-## Global Distribution of Petro Protests and Oil Infrastructure
+Why do some oil-rich countries experience persistent, nonviolent mobilization instead of violent conflict or compliance? This research introduces the concept of **petroprotest** and the **Petro Field** framework to explain how institutional breakdowns in oil governance—especially executive corruption and state ownership—turn oil into a flashpoint for collective action.
 
-### Petro Protests Distribution
-![Global Distribution of Petro Protests](/images/Petro%20Protest%20World%20Map%20-%202024-11-24.png)
-*Figure 1: Global Distribution of Petro Protests (2005-2019). Color intensity shows the frequency of protests, with darker shades representing higher protest activity.*
+Rather than assuming oil wealth causes either stability or violence, this study shows that **corruption within National Oil Companies (NOCs)** violates the public's moral expectations of collective benefit, fueling contention in highly institutionalized, yet structurally fragile, petrostates.
 
-### Oil Sector Infrastructure
-![Global Distribution of Oil, Gas and Refineries](/images/Oil%2C%20Gas%20and%20Refineries%20World%20Map2%20-%202024-11-24.png)
-*Figure 2: Global Distribution of Oil Sector Facilities. Green triangles represent oil facilities, red circles represent gas facilities, and orange diamonds represent refineries.*
+## Theoretical Framework: The Petro Field
 
-## Research Design
-Drawing on original cross-national data from 2005–2019 and fixed-effects negative binomial and zero-inflated regression models, this study examines how institutional arrangements—particularly executive corruption and ownership structures—mediate the relationship between oil sector presence and collective action.
+Drawing on **Strategic Action Field (SAF)** theory, the oil sector is conceptualized as a **Petro Field**—a meso-level arena where state actors, corporations, and communities interact, negotiate legitimacy, and contest the distribution of national wealth.
 
-## Theoretical Framework
-The study combines three interconnected theories:
+This field-centric lens foregrounds how:
 
-1. **Grievance-based Theory**: Examines how inequitable oil wealth distribution fuels collective discontent in resource-dependent economies. This theory helps explain why resource abundance often leads to social tensions rather than prosperity.
+- **Executive corruption** acts as an endogenous field disruption, eroding shared governance norms.
+- **Ownership structure** (NOCs vs. IOCs) conditions how corruption is perceived and politicized.
+- **Moral economy expectations** transform grievances into moral claims of betrayal.
 
-2. **Social Threat Theory**: Explains how perceived threats—such as fuel price hikes, subsidy removals, and job losses—can catalyze protests. These immediate threats often transform latent grievances into active mobilization.
+## Conceptual Innovation: What is a Petroprotest?
 
-3. **Moral Economy**: Shows how violations of public expectations regarding fair resource distribution can escalate into collective action. This framework helps understand how perceptions of justice and fairness shape protest dynamics.
+A **petroprotest** is defined as *unarmed collective action rooted in grievances over the governance, distribution, or symbolic meaning of oil resources*. Unlike generic protests, petroprotests:
+
+- Emerge from violations of shared moral claims about oil as a national good
+- Often target NOCs, whose corruption is seen as a betrayal of public trust
+- Combine material demands (e.g., jobs, environmental protection) with symbolic ones (e.g., justice, sovereignty)
+
+## Empirical Design: Telescopic Methodology
+
+This study employs a **multi-scalar research design** that zooms from global patterns to individual attitudes:
+
+1. **Cross-National Dataset (2005–2019)**  
+   - First systematic dataset of 8,200+ petroprotests  
+   - Negative binomial regressions show oil infrastructure predicts protest only where executive corruption is high  
+   - Effects are **strongest under NOC ownership**
+
+2. **Subnational Analysis**  
+   - Grid-cell models reveal protests cluster near oil sites, especially where corruption is high  
+   - The protest effect decays over distance but remains robust under high corruption
+
+3. **Original Survey in Iraq (2023–2024)**  
+   - Majority of respondents attribute protests to executive corruption  
+   - NOCs are perceived as more corrupt than IOCs  
+   - These perceptions are strongly associated with protest participation
 
 ## Key Findings
 
-- Executive corruption amplifies the protest-inducing effects of oil sector facilities, particularly under National Oil Companies (NOCs), where public expectations of accountability are higher
-- International Oil Companies (IOCs) operating under stricter transparency standards exhibit weaker links to protest dynamics
-- Civil society engagement moderates these effects: higher consultation reduces protest likelihood, while lower repression intensifies it
-- The relationship between oil facilities and protests is non-linear, with institutional quality playing a crucial mediating role
-- Ownership structures (NOCs vs. IOCs) significantly influence how corruption affects protest dynamics
+- **Executive corruption** transforms governance failure into protest fuel by violating public trust.
+- **National Oil Companies (NOCs)** serve as protest focal points, symbolizing broken social contracts.
+- **Civil society engagement** moderates contention: transparency and consultation dampen protest, while repression intensifies it.
+- **Petroprotests** are highly spatialized and shaped by both material deprivation and symbolic betrayal.
+- Protest dynamics are not just resource-driven but field-dependent—shaped by how oil is governed, framed, and experienced.
 
 ## Active Research: Iraq Case Study
-Currently conducting survey research in Iraq examining:
 
-- Public perceptions of oil sector governance
-- Patterns of protest participation
-- Views on resource distribution
-- Civil society engagement
-- Local experiences with oil sector facilities
-- Community-company relations
-- Environmental and health impacts
-- Economic benefits distribution
+Currently conducting deep-dive fieldwork in Iraq to examine:
 
-### Survey Implementation
-- Comprehensive questionnaire covering multiple dimensions of oil sector governance
-- Mixed-methods approach combining quantitative and qualitative data
-- Focus on both urban and rural areas
-- Special attention to regions with high concentration of oil facilities
+- Local perceptions of oil governance and trust in NOCs vs. IOCs  
+- Patterns of protest participation and claim-making  
+- Community-company relations in high-extraction zones  
+- Perceived fairness of revenue distribution and infrastructure access  
+- Environmental and health consequences of oil operations
 
-## Research Contributions
-This research advances our understanding of contentious politics in several key ways:
+## Contributions
 
-1. Demonstrates how institutional configurations moderate the relationship between resource wealth and collective action
-2. Identifies mechanisms through which corruption and ownership structures shape mobilization
-3. Provides new empirical foundations for analyzing state-society relations in oil-producing countries
-4. Develop first systematic cross-national dataset on petro protests
-5. Offers policy-relevant insights for improving oil sector governance
-6. Contributes to theories of collective action and resource politics
+This research makes the following contributions:
 
-## Data and Methods
+1. **Theoretical**: Defines the *Petro Field* and *petroprotest* as new concepts in resource politics.
+2. **Empirical**: Introduces the first cross-national dataset of oil-related protests (2005–2019).
+3. **Methodological**: Applies a telescopic design to bridge macro, meso, and micro levels of analysis.
+4. **Policy-Relevant**: Offers guidance for mitigating unrest through institutional reform, transparency, and public accountability.
+5. **Comparative**: Challenges simplistic oil curse narratives by showing when and how protest arises peacefully within oil fields.
 
-### Quantitative Analysis
-- Original cross-national dataset (2005-2019)
-- Fixed-effects negative binomial regression
-- Zero-inflated regression models
-- Spatial analysis of protest patterns
-- Network analysis of protest diffusion
+## Visualizing the Petro Field
 
-### Qualitative Components
-- Survey research in Iraq
-- Comprehensive analysis of oil sector facilities
-- Process tracing of protest events
-- Content analysis of protest demands
-- Stakeholder interviews
+### Petroprotest Incidence (2005–2019)
+![Global Distribution of Petroprotests](/images/Petro%20Protest%20World%20Map%20-%202024-11-24.png)
+*Figure 1: Darker shades indicate higher frequency of petroprotests.*
 
-## Policy Implications
-This research offers several important insights for policymakers:
+### Oil Sector Infrastructure
+![Oil Infrastructure Map](/images/Oil%2C%20Gas%20and%20Refineries%20World%20Map2%20-%202024-11-24.png)
+*Figure 2: Triangles = oil fields; Circles = gas facilities; Diamonds = refineries.*
 
-1. The importance of transparency in oil sector governance
-2. The role of institutional design in preventing conflicts
-3. The value of civil society engagement in resource management
-4. The need for equitable distribution of resource benefits
-5. The significance of community consultation in oil sector operations
+---
+
+[Download Full Research Article (PDF)](/files/Job_Market_Paper.pdf)
