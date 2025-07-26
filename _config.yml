@@ -218,6 +218,21 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Navigation
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Research" 
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Datasets"
+    url: /datasets/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/
+
 # These settings control how pages and collections are included in the site
 defaults:
   - scope:
