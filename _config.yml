@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Saber Khani"
 title_separator          : "-"
 name                     : &name "Saber Khani"
-description              : &description "personal description"
-URL                      : "saberkhani6688.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Ph.D. Candidate in Sociology at Boston College"
+url                      : "https://saberkhani6688.github.io" # Fixed: Added https:// protocol
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "saberkhani/saberkhani.github.io"
+repository               : "saberkhani6688/saberkhani6688.github.io" # Fixed: Made consistent with URL
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Saberkhani6688"
+  github           : "saberkhani6688" # Fixed: Changed to username only, not full URL
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -120,13 +120,11 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
 
 # Social Sharing
 twitter:
@@ -143,13 +141,11 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
 
 # Reading Files
 include:
@@ -189,14 +185,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -208,7 +202,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # These settings control the types of collections used by the template
 collections:
@@ -224,7 +217,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -243,35 +235,45 @@ defaults:
       path: ""
       type: pages
     values:
-      output: true
+      layout: single  # Added missing layout
+      author_profile: true
       permalink: /:path/
 
   - scope:
       path: ""
       type: teaching
     values:
-      output: true
+      layout: single  # Added missing layout
+      author_profile: true
+      share: true
+      comments: true
       permalink: /:collection/:path/
 
   - scope:
       path: ""
       type: publications
     values:
-      output: true
+      layout: single  # Added missing layout
+      author_profile: true
+      share: true
       permalink: /:collection/:path/
 
   - scope:
       path: ""
       type: portfolio
     values:
-      output: true
+      layout: single  # Added missing layout
+      author_profile: true
+      share: true
       permalink: /:collection/:path/
 
   - scope:
       path: ""
       type: talks
     values:
-      output: true
+      layout: single  # Added missing layout
+      author_profile: true
+      share: true
       permalink: /:collection/:path/
 
 # Sass/SCSS
@@ -279,13 +281,11 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: America/New_York # Changed to appropriate timezone for Boston
 
 # Plugins
 plugins:
@@ -304,7 +304,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
 
 # Archives
 #  Type
@@ -333,7 +332,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
