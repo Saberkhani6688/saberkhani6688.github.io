@@ -77,9 +77,9 @@ This research makes the following contributions:
 ## Visualizing the Petro Field
 
 ### Petroprotest Incidence (2005–2019)
-![Global Distribution of Petroprotests](/images/Petro%20Protest%20World%20Map%20-%202024-11-24.png)
+![Global Distribution of Petroprotests](/images/Petro%20Protest%20World%20Map%20-%202024-11-24.png)  
 *Figure 1: Darker shades indicate higher frequency of petroprotests.*
 
 ### Oil Sector Infrastructure
-![Oil Infrastructure Map](/images/Oil%2C%20Gas%20and%20Refineries%20World%20Map2%20-%202024-11-24.png)
+![Oil Infrastructure Map](/images/Oil%2C%20Gas%20and%20Refineries%20World%20Map2%20-%202024-11-24.png)  
 *Figure 2: Triangles = oil fields; Circles = gas facilities; Diamonds = refineries.*
