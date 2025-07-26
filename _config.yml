@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Saber Khani"
+title                    : "Saber Khani"  # Fixed: Removed duplicate title line
 title_separator          : "-"
 name                     : &name "Saber Khani"
 description              : &description "Ph.D. Candidate in Sociology at Boston College"
-url                      : "https://saberkhani6688.github.io" # Fixed: Added https:// protocol
+url                      : "https://saberkhani6688.github.io"  # Fixed: Added https:// protocol
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "saberkhani6688/saberkhani6688.github.io" # Fixed: Made consistent with URL
+repository               : "saberkhani6688/saberkhani6688.github.io"  # Fixed: Made consistent with URL
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "saberkhani6688" # Fixed: Changed to username only, not full URL
+  github           : "saberkhani6688"  # Fixed: Changed to username only
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -218,23 +218,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Navigation
-navigation:
-  - title: "About"
-    url: /about/
-  - title: "Research" 
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Datasets"
-    url: /datasets/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Contact"
-    url: /contact/
-
 # These settings control how pages and collections are included in the site
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -245,50 +231,58 @@ defaults:
       comments: true
       share: true
       related: true
-
+  
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
-      layout: single  # Added missing layout
+      layout: single
       author_profile: true
       permalink: /:path/
-
+  
+  # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      layout: single  # Added missing layout
+      layout: single
       author_profile: true
       share: true
       comments: true
       permalink: /:collection/:path/
-
+  
+  # _publications
   - scope:
       path: ""
       type: publications
     values:
-      layout: single  # Added missing layout
+      layout: single
       author_profile: true
       share: true
+      comments: true
       permalink: /:collection/:path/
-
+  
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
-      layout: single  # Added missing layout
+      layout: single
       author_profile: true
       share: true
+      comments: true
       permalink: /:collection/:path/
-
+  
+  # _talks
   - scope:
       path: ""
       type: talks
     values:
-      layout: single  # Added missing layout
+      layout: single
       author_profile: true
       share: true
+      comments: true
       permalink: /:collection/:path/
 
 # Sass/SCSS
