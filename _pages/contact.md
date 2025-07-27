@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contact"
-permalink: /pagename/
+permalink: /contact/
 author_profile: true
 ---
 
@@ -17,7 +17,7 @@ I'm always happy to connect with colleagues, students, and collaborators. Please
 
 **Google Scholar**: [View Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=KOvMEfIAAAAJ)
 
-**LinkedIn**: [Connect with me](https://linkedin.com/in/saber-khani-99825722a)
+**LinkedIn**: [Connect with me](https://www.linkedin.com/in/saber-khani-99825722a)
 
 ---
 
@@ -25,14 +25,13 @@ I'm always happy to connect with colleagues, students, and collaborators. Please
 
 <form action="https://formspree.io/f/xeozakdn" method="POST">
   <label for="name"><strong>Name:</strong></label><br>
-  <input type="text" id="name" name="name" required><br><br>
-
+  <input type="text" id="name" name="name" required style="width: 100%; max-width: 400px; padding: 8px; margin: 5px 0;"><br><br>
+  
   <label for="email"><strong>Email:</strong></label><br>
-  <input type="email" id="email" name="email" required><br><br>
-
+  <input type="email" id="email" name="email" required style="width: 100%; max-width: 400px; padding: 8px; margin: 5px 0;"><br><br>
+  
   <label for="message"><strong>Message:</strong></label><br>
-  <textarea id="message" name="message" rows="6" required></textarea><br><br>
-
-  <button type="submit">Send Message</button>
+  <textarea id="message" name="message" rows="6" required style="width: 100%; max-width: 400px; padding: 8px; margin: 5px 0;"></textarea><br><br>
+  
+  <button type="submit" style="background-color: #007cba; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
 </form>
-
