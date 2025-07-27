@@ -9,6 +9,81 @@ author_profile: true
 .page__title {
     display: none !important;
 }
+
+.contact-form {
+    max-width: 500px;
+    margin: 20px 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+    color: #333;
+    font-size: 14px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid #e1e5e9;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: inherit;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #007cba;
+    box-shadow: 0 0 0 3px rgba(0, 124, 186, 0.1);
+}
+
+.form-group textarea {
+    resize: vertical;
+    min-height: 120px;
+    line-height: 1.5;
+}
+
+.submit-btn {
+    background: linear-gradient(135deg, #007cba 0%, #005a87 100%);
+    color: white;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 124, 186, 0.2);
+}
+
+.submit-btn:hover {
+    background: linear-gradient(135deg, #005a87 0%, #004466 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 124, 186, 0.3);
+}
+
+.submit-btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 124, 186, 0.2);
+}
+
+.form-description {
+    margin-bottom: 25px;
+    color: #666;
+    font-size: 15px;
+    line-height: 1.4;
+}
 </style>
 
 I'm always happy to connect with colleagues, students, and collaborators. Please feel free to reach out using the information below or by filling out the contact form below.
@@ -23,15 +98,32 @@ I'm always happy to connect with colleagues, students, and collaborators. Please
 
 ## Contact Form
 
-<form action="https://formspree.io/f/xeozakdn" method="POST">
-  <label for="name"><strong>Name:</strong></label><br>
-  <input type="text" id="name" name="name" required style="width: 100%; max-width: 400px; padding: 8px; margin: 5px 0;"><br><br>
-  
-  <label for="email"><strong>Email:</strong></label><br>
-  <input type="email" id="email" name="email" required style="width: 100%; max-width: 400px; padding: 8px; margin: 5px 0;"><br><br>
-  
-  <label for="message"><strong>Message:</strong></label><br>
-  <textarea id="message" name="message" rows="6" required style="width: 100%; max-width: 400px; padding: 8px; margin: 5px 0;"></textarea><br><br>
-  
-  <button type="submit" style="background-color: #007cba; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
-</form>
+<div class="contact-form">
+    <p class="form-description">
+        I typically respond within 24-48 hours. For urgent matters, please email me directly.
+    </p>
+    
+    <form action="https://formspree.io/f/xeozakdn" method="POST">
+        <div class="form-group">
+            <label for="name">Full Name</label>
+            <input type="text" id="name" name="name" required placeholder="Enter your full name">
+        </div>
+        
+        <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" required placeholder="Enter your email address">
+        </div>
+        
+        <div class="form-group">
+            <label for="subject">Subject</label>
+            <input type="text" id="subject" name="subject" placeholder="Brief subject line (optional)">
+        </div>
+        
+        <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" required placeholder="Tell me about your question, research interest, or collaboration idea..."></textarea>
+        </div>
+        
+        <button type="submit" class="submit-btn">Send Message</button>
+    </form>
+</div>
