@@ -1,9 +1,15 @@
 ---
-layout: archive
-title: false
-permalink: /contact/
+layout: single
+title: "Contact"
+permalink: /pagename/
 author_profile: true
 ---
+
+<style>
+.page__title {
+    display: none !important;
+}
+</style>
 
 I'm always happy to connect with colleagues, students, and collaborators. Please feel free to reach out using the information below or by filling out the contact form below.
 
