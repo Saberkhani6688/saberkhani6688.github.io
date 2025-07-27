@@ -1,9 +1,14 @@
 ---
 layout: archive
-title: false
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<style>
+.page__title {
+    display: none !important;
+}
+</style>
 
 ## Peer-Reviewed Publications
 
