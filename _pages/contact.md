@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: false
 permalink: /contact/
 author_profile: true
 ---
@@ -9,9 +9,9 @@ I'm always happy to connect with colleagues, students, and collaborators. Please
 
 **Email**: [khanis@bc.edu](mailto:khanis@bc.edu)
 
-**Google Scholar**: [View Profile]([https://scholar.google.com/citations?user=0c2asYoAAAAJ&hl=en](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=KOvMEfIAAAAJ))  
+**Google Scholar**: [View Profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=KOvMEfIAAAAJ)
 
-**LinkedIn**: [Connect with me](linkedin.com/in/saber-khani-99825722a)
+**LinkedIn**: [Connect with me](https://linkedin.com/in/saber-khani-99825722a)
 
 ---
 
