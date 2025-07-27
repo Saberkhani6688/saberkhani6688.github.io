@@ -100,7 +100,6 @@ I'm always happy to connect with colleagues, students, and collaborators. Please
 
 <div class="contact-form">
     <p class="form-description">
-        I typically respond within 24-48 hours. For urgent matters, please email me directly.
     </p>
     
     <form action="https://formspree.io/f/xeozakdn" method="POST">
