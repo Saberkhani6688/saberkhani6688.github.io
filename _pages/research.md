@@ -76,7 +76,7 @@ This micro-level evidence complements the global and subnational analyses, bridg
 
 ### Survey and Oil Infrastructure Map
 ![Survey and Oil Infrastructure Map](/images/Iraq Map.png)  
-* Geographic distribution of survey districts and major oil infrastructure in Iraq.*
+*Geographic distribution of survey districts and major oil infrastructure in Iraq.*
 
 ---
 
@@ -93,4 +93,4 @@ This micro-level evidence complements the global and subnational analyses, bridg
 
 ### Petroprotest Incidence (2005–2019)
 ![Global Distribution of Petroprotests](/images/Petrroprotest.png)  
-*Darker shades indicate higher frequency of petroprotests.*
+*Darker shades indicate a higher frequency of petroprotests.*
