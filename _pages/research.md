@@ -21,6 +21,10 @@ Building on **Strategic Action Field (SAF)** theory, I conceptualize the oil sec
 - **Ownership structure** shapes how corruption is interpreted: NOCs carry symbolic weight as guardians of public wealth, while IOCs remain relatively insulated.  
 - Field disruptions give rise to **petroprotests**, unarmed collective actions rooted in material and symbolic claims about oil.
 
+### Petro Field Diagram
+![The Petro Field Diagram](/images/Petro%20Field%20Diagram.png)  
+*Figure 1: The Petro Field and the mechanisms that generate petroprotests.*
+
 ---
 
 ## Conceptual Innovation: Petroprotest
@@ -87,4 +91,4 @@ This micro-level evidence complements the global and subnational analyses, bridg
 
 ### Petroprotest Incidence (2005–2019)
 ![Global Distribution of Petroprotests](/images/petroprotest_world_map.pdf)  
-*Figure 1: Darker shades indicate higher frequency of petroprotests.*
+*Darker shades indicate higher frequency of petroprotests.*
