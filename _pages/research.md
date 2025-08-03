@@ -86,7 +86,6 @@ This micro-level evidence complements the global and subnational analyses, bridg
 2. **Empirical** – Produces the first cross-national petroprotest dataset and a subnational mapping of oil-related contention.  
 3. **Methodological** – Implements a telescopic, multi-level design linking macro patterns to micro-level claim-making.  
 4. **Policy-Relevant** – Offers insights for mitigating unrest through transparency, institutional reform, and public accountability.  
-5. **Comparative** – Challenges simplistic “oil curse” narratives by showing when and how unarmed mobilization arises in petrostates.
 
 ---
 
