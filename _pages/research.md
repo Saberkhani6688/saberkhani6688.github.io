@@ -75,7 +75,7 @@ My ongoing fieldwork in Iraq explores:
 This micro-level evidence complements the global and subnational analyses, bridging structural dynamics with lived experiences.
 
 ### Survey and Oil Infrastructure Map
-![Survey and Oil Infrastructure Map](/images/Iraq Map.png)  
+![Survey and Oil Infrastructure Map](/images/Iraq_map.png)  
 *Geographic distribution of survey districts and major oil infrastructure in Iraq.*
 
 ---
