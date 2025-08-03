@@ -34,6 +34,10 @@ I define **petroprotest** as *unarmed collective action explicitly linked to the
 - Frequently target **NOCs** as symbols of broken public trust  
 - Combine material demands (jobs, infrastructure, environmental protections) with symbolic demands (justice, sovereignty, anti-corruption)
 
+### Petroprotest (2005–2019)
+![Global Distribution of Petroprotests](/images/Petrroprotest.png)  
+*Darker shades indicate a higher frequency of petroprotests.*
+
 ---
 
 ## Multi-Scalar Empirical Design
@@ -88,9 +92,3 @@ This micro-level evidence complements the global and subnational analyses, bridg
 4. **Policy-Relevant** – Offers insights for mitigating unrest through transparency, institutional reform, and public accountability.  
 
 ---
-
-## Visualizing the Petro Field
-
-### Petroprotest Incidence (2005–2019)
-![Global Distribution of Petroprotests](/images/Petrroprotest.png)  
-*Darker shades indicate a higher frequency of petroprotests.*
