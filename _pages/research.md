@@ -34,7 +34,7 @@ I define **petroprotest** as *unarmed collective action explicitly linked to the
 - Frequently target **NOCs** as symbols of broken public trust  
 - Combine material demands (jobs, infrastructure, environmental protections) with symbolic demands (justice, sovereignty, anti-corruption)
 
-### Petroprotest (2005–2019)
+
 ![Global Distribution of Petroprotests](/images/Petrroprotest.png)  
 *Darker shades indicate a higher frequency of petroprotests.*
 
