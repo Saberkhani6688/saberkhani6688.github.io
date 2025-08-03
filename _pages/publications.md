@@ -19,11 +19,7 @@ Sara Moorman and **Saber Khani**. 2024. "High School Curriculum and Cognitive Fu
 
 ## Manuscripts Under Review
 
-Mohammad Ali Kadivar and **Saber Khani**. "Wartime Losses and Political Gains: State-Led Mobilization Through War Memorials in Iran." Under review at _American Sociological Review._
-
-Mohammad Ali Kadivar, **Saber Khani**, Vahid Abedini, and Samira Barzin. “The Contingency of Structures: Triggers and the Social Geography of Revolutionary Episodes in Iran 2018 - 2022.” Under review at _American Journal of Sociology_.
-
-Jalal Ferati\*, **Saber Khani**, and Akash Chopra*. “From Presence to Prominence: Institutional Pathways and Women’s Appointments to Cabinets Across Regimes.” Under review at _British Journal of Political Science_.
+Jalal Ferati\*, **Saber Khani**, and Akash Chopra*. “From Presence to Prominence: Institutional Pathways and Women’s Appointments to Cabinets Across Regimes.” Under review at _Comparative Political Studies_.
 
 **Saber Khani** and Sara Moorman. “Beyond the Classroom: How High School Extracurricular Activities Shape Cognitive Health in Later Life.” Under review at _The Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.
 
@@ -36,6 +32,10 @@ Eric Vogelsang, Sara Moorman, Alan Mijares, Zackary Zanotelli, Reza Tayari Ashti
 **Saber Khani**. “Drilling and Dissent: A Field-Theoretic Analysis of Oil-Driven Protests Across Countries, 2005–2019.” Manuscript ready for submission.
 
 **Saber Khani** and Mohammad Ali Kadivar. “Compliance on Campus: Universities and Pro-government Mobilization in Autocratic Regimes.” Manuscript ready for submission.
+
+Mohammad Ali Kadivar and **Saber Khani**. "Wartime Losses and Political Gains: State-Led Mobilization Through War Memorials in Iran." Manuscript ready for submission.
+
+Mohammad Ali Kadivar, **Saber Khani**, Vahid Abedini, and Samira Barzin. “The Contingency of Structures: Triggers and the Social Geography of Revolutionary Episodes in Iran 2018 - 2022.” Manuscript ready for submission.
 
 ## Media Coverage
 
