@@ -92,5 +92,5 @@ This micro-level evidence complements the global and subnational analyses, bridg
 ## Visualizing the Petro Field
 
 ### Petroprotest Incidence (2005–2019)
-![Global Distribution of Petroprotests](/images/petroprotest_world_map.pdf)  
+![Global Distribution of Petroprotests](/images/Petrroprotest.png)  
 *Darker shades indicate higher frequency of petroprotests.*
