@@ -46,3 +46,9 @@ semester: ["Fall 2022", "Spring 2023", "Fall 2023", "Spring 2024", "Fall 2024"]
 </iframe>
 
 [Download Course Evaluation Summary as PDF](/files/Intro%20Sociology%20Dashboard.pdf)
+
+---
+
+## 🌟 Additional Feedback
+
+For more student perspectives, see my **[Rate My Professors (RMP) profile](https://www.ratemyprofessors.com/professor/2845713)**, which includes ratings and comments on my teaching style and classroom impact.
