@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Saber Khani"
 title_separator          : "-"
 name                     : &name "Saber Khani"
-description              : &description "Ph.D. Candidate in Sociology at Boston College"
+description              : &description "Ph.D. Candidate in Sociology at Boston College" # Updated Dec 2025
 url                      : https://saberkhani6688.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saberkhani6688/saberkhani6688.github.io"
