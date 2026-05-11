@@ -13,4 +13,4 @@ Methodologically, I use computational text analysis, geospatial modeling, survey
 
 My research has been published in *Comparative Political Studies* and *Alzheimer's Disease & Associated Disorders*, with additional papers currently under review at *American Sociological Review*, *American Journal of Sociology*, and *Comparative Political Studies*. My policy analyses have appeared in *Foreign Affairs* and *Middle East Report Online*.
 
-Please find my full CV [here](/files/Khani_CV.pdf) (last updated November 2025).
+Please find my full CV [here](/files/Khani_CV.pdf) (last updated April 2026).
