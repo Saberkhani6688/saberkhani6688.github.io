@@ -13,6 +13,6 @@ At the heart of my work is understanding how contentious politics emerge from th
 
 Methodologically, I use computational text analysis, geospatial modeling, survey experiments, regression analysis, and comparative-historical analysis to examine sociopolitical and contentious dynamics. I have designed and implemented original surveys in Iraq, analyzed global protest events across 160 countries, and constructed novel datasets on state-led mobilization in Iran.
 
-My research has been published in *Comparative Political Studies* and *Alzheimer's Disease & Associated Disorders*, with additional papers currently under review at *American Sociological Review*, *American Journal of Sociology*, and *Comparative Political Studies*. My policy analyses have appeared in *Foreign Affairs* and *Middle East Report Online*.
+My research has been published in *Comparative Political Studies*, *The Journals of Gerontology: Series B*, *Alzheimer's Disease & Associated Disorders*, and *Research on Aging*, with additional papers currently under review at *American Journal of Sociology*, *Social Forces*, and *Perspectives on Politics*. My policy analyses have appeared in *Foreign Affairs* and *Middle East Report Online (MERIP)*.
 
-Please find my full CV [here](/files/Khani_CV.pdf) (last updated November 2025).
+Please find my full CV [here](/files/Khani_CV.pdf) (last updated April 2026).
