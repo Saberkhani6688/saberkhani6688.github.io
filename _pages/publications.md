@@ -11,7 +11,6 @@ author_profile: true
 </style>
 
 ## Peer-Reviewed Publications
-
 Eric Vogelsang, Sara Moorman, Alan Mijares, Zackary Zanotelli, Reza Tayari 
 Ashtiani, and **Saber Khani**. 2025. "Older Adult Social Participation and 
 Cognition: Illustrating Survey and Measurement Heterogeneity Across Studies." 
@@ -35,14 +34,13 @@ _Comparative Political Studies_ 57(10):1668-1702.
 ([link](https://journals.sagepub.com/doi/10.1177/00104140231194914))
 
 ## Manuscripts Under Review
-
-**Saber Khani**. "Drilling and Dissent: Oil, Corruption, and Contention—Evidence 
-From a Multi-Level Cross-National Analysis, 2005–2019." Under review at 
-_Social Forces_.
+**Saber Khani**. "Drilling and Dissent: Oil, Corruption, and Contention - 
+Evidence From a Dual-Level Analysis, 2005–2019." Under review at 
+_Social Problems_.
 
 **Saber Khani** and Mohammad Ali Kadivar. "Universities and Pro-government 
-Mobilization in Autocratic Regimes." Under review at _American Journal of 
-Sociology_.
+Mobilization in Autocratic Regimes." Under review at _American Sociological 
+Review_.
 
 Mohammad Ali Kadivar and **Saber Khani**. "The Politics of War Commemoration 
 in Iran." Under review at _American Journal of Sociology_.
@@ -50,7 +48,15 @@ in Iran." Under review at _American Journal of Sociology_.
 Mohammad Ali Kadivar, **Saber Khani**, Danial Vahabli, Vahid Abedini, and 
 Samira Barzin. "The Contingency of Structures: Triggers and the Social 
 Geography of Revolutionary Episodes in Iran 2018–2022." Under review at 
-_American Journal of Sociology_.
+_Social Forces_.
+
+Mohammad Ali Kadivar, **Saber Khani**, Danial Vahabli, Vahid Abedini, and 
+Samira Barzin. "Who Made the Iranian Revolution? Mobilization and Death, 
+1977–1979." Under review at _American Political Science Review_.
+
+Mohammad Ali Kadivar and **Saber Khani**. "Uneven Incorporation: Ethnic 
+Inequality Across Social Domains in Iran." Under review at _The Journal of 
+Development Studies_.
 
 Jalal Ferati\*, **Saber Khani**, and Akash Chopra\*. "From Presence to 
 Prominence: Institutional Pathways and Women's Appointments to Cabinets 
@@ -59,12 +65,14 @@ Across Regimes." Revise & Resubmit at _Perspectives on Politics_.
 \*graduate student co-authors
 
 ## Working Papers
+**Saber Khani**. "Smelling the Source: Oil Pollution, Sulfur Dioxide, and 
+Targeted Protest in a Global Grid Cell Analysis, 2019–2024." Manuscript 
+ready for submission.
 
-Mohammad Ali Kadivar and **Saber Khani**. "Uneven Incorporation: Ethnic 
-Inequality Across Social Domains in Iran." Manuscript ready for submission.
+**Saber Khani**. "In the Shadow of Extraction: How Perceived Proximity to 
+Oil Infrastructure Fuels Dissent." Manuscript ready for submission.
 
 ## Media Coverage
-
 "Labor Organizing on the Rise Among Iranian Oil Workers," with Mohammad Ali 
 Kadivar, Peyman Jafari, and Mehdi Hoseini, _Middle East Report Online_, 
 October 25, 2021. 
