@@ -25,7 +25,7 @@ author:
   avatar           : "saber_headshot.jpg"
   name             : "Saber Khani"
   pronouns         : # example: "he/him"  
-  bio              : "Ph.D. Candidate in Sociology at Boston College"
+  bio              : "Ph.D. Candidate in Sociology at <br /> Boston College"
   location         : "Boston, MA USA"
   employer         : "Boston College"
   uri              : # URL
