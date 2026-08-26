@@ -50,8 +50,7 @@ Samira Barzin. "The Contingency of Structures: Triggers and the Social
 Geography of Revolutionary Episodes in Iran 2018–2022." Under review at 
 _Social Forces_.
 
-Mohammad Ali Kadivar, **Saber Khani**, Danial Vahabli, Vahid Abedini, and 
-Samira Barzin. "Who Made the Iranian Revolution? Mobilization and Death, 
+Mohammad Ali Kadivar, **Saber Khani**, Danial Vahabli. "Who Made the Iranian Revolution? Mobilization and Death, 
 1977–1979." Under review at _American Political Science Review_.
 
 Mohammad Ali Kadivar and **Saber Khani**. "Uneven Incorporation: Ethnic 
