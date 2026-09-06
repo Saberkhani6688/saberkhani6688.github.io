@@ -11,6 +11,12 @@ author_profile: true
 </style>
 
 ## Peer-Reviewed Publications
+Jalal Ferati\*, **Saber Khani**, and Akash Chopra\*. 2026. "From Presence to 
+Prominence: Institutional Pathways and Women's Appointments to Cabinets 
+Across Regimes." Conditionally Accepted at _Perspectives on Politics_.
+
+\*graduate student co-authors
+
 Eric Vogelsang, Sara Moorman, Alan Mijares, Zackary Zanotelli, Reza Tayari 
 Ashtiani, and **Saber Khani**. 2025. "Older Adult Social Participation and 
 Cognition: Illustrating Survey and Measurement Heterogeneity Across Studies." 
@@ -57,11 +63,6 @@ Mohammad Ali Kadivar and **Saber Khani**. "Uneven Incorporation: Ethnic
 Inequality Across Social Domains in Iran." Under review at _The Journal of 
 Development Studies_.
 
-Jalal Ferati\*, **Saber Khani**, and Akash Chopra\*. "From Presence to 
-Prominence: Institutional Pathways and Women's Appointments to Cabinets 
-Across Regimes." Revise & Resubmit at _Perspectives on Politics_.
-
-\*graduate student co-authors
 
 ## Working Papers
 **Saber Khani**. "Smelling the Source: Oil Pollution, Sulfur Dioxide, and 
