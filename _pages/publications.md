@@ -14,7 +14,6 @@ author_profile: true
 Jalal Ferati\*, **Saber Khani**, and Akash Chopra\*. 2026. "From Presence to 
 Prominence: Institutional Pathways and Women's Appointments to Cabinets 
 Across Regimes." Conditionally Accepted at _Perspectives on Politics_.
-
 \*graduate student co-authors
 
 Eric Vogelsang, Sara Moorman, Alan Mijares, Zackary Zanotelli, Reza Tayari 
