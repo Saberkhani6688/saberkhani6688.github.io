@@ -34,7 +34,7 @@
   function plural(n, w) { return n.toLocaleString() + ' ' + w + (n === 1 ? '' : 's'); }
 
   function matches(r, skip) {
-    if (skip !== 'sem' && state.sem.size && !state.sem.has(r.sem)) return false;
+    if (skip !== 'sem' && state.sem.size && !r.sems.some(function (x) { return state.sem.has(x); })) return false;
     if (skip !== 'fam' && state.fam.size && !state.fam.has(r.family)) return false;
     if (skip !== 'resp' && state.resp && r.resp !== state.resp) return false;
     if (skip !== 'singer' && state.singer && r.singer !== state.singer) return false;
@@ -57,7 +57,7 @@
     };
     root.querySelectorAll('.st-stat-num').forEach(function (n) {
       var target = vals[n.getAttribute('data-count')];
-      if (reduceMotion) { n.textContent = target.toLocaleString(); return; }
+      if (reduceMotion || document.hidden) { n.textContent = target.toLocaleString(); return; }
       var start = null, dur = 1300;
       function step(t) {
         if (start === null) start = t;
@@ -83,21 +83,23 @@
     var menMale = pct(men.filter(function (r) { return r.singer === 'Male'; }).length, men.length);
     var womenMale = pct(women.filter(function (r) { return r.singer === 'Male'; }).length, women.length);
     var artists = sortedEntries(count(data, function (r) { return r.artist; }));
+    var repeats = data.slice().sort(function (x, y) { return y.times - x.times || x.title.localeCompare(y.title); });
     var top5 = data.filter(function (r) { return r.top5 > 0; }).length;
     var nonEng = data.filter(function (r) { return r.lang !== 'English'; }).length;
     function famShare(sem, fam) {
-      var s = data.filter(function (r) { return r.sem === sem; });
+      var s = data.filter(function (r) { return r.sems.indexOf(sem) !== -1; });
       return pct(s.filter(function (r) { return r.family === fam; }).length, s.length);
     }
     var secs = data.map(function (r) { return r.sec; }).filter(Boolean).sort(function (a, b) { return a - b; });
     var median = secs[Math.floor(secs.length / 2)];
+    var rep = repeats[0];
 
     var cards = [
-      { big: pct(male, data.length) + '%', text: 'of all songs were by male artists. Women artists made up ' + pct(data.filter(function (r) { return r.singer === 'Female'; }).length, data.length) + '%.' },
-      { big: menMale + '% vs ' + womenMale + '%', text: 'Share of songs by male artists among songs chosen by men, compared with songs chosen by women.' },
-      { big: artists[0][0], text: 'was the most picked artist, with ' + plural(artists[0][1], 'song') + '. ' + artists[1][0] + ' came next with ' + artists[1][1] + '.' },
-      { big: famShare('Fall 2022', 'Pop') + '% to ' + famShare('Fall 2024', 'Pop') + '%', text: 'Pop share of the playlist from Fall 2022 to Fall 2024. Rap and Hip Hop went from ' + famShare('Fall 2022', 'Rap & Hip Hop') + '% to ' + famShare('Fall 2024', 'Rap & Hip Hop') + '%.' },
-      { big: pct(nonEng, data.length) + '%', text: 'of songs were not in English, spanning ' + (new Set(data.map(function (r) { return r.lang; })).size - 1) + ' other languages. The typical song ran ' + mmss(median) + '. ' + pct(top5, data.length) + '% were from a student\'s personal top five.' }
+      { big: pct(male, data.length) + '%', text: 'of the songs were by male artists. Women artists made up ' + pct(data.filter(function (r) { return r.singer === 'Female'; }).length, data.length) + '%.' },
+      { big: menMale + '% vs ' + womenMale + '%', text: 'Songs by male artists among the songs men chose, compared with the songs women chose.' },
+      { big: rep.title, text: 'was the song chosen most often, ' + rep.times + ' times across ' + rep.sems.length + ' semesters. ' + artists[0][0] + ' has the most different songs (' + artists[0][1] + ').' },
+      { big: famShare('Fall 2022', 'Pop') + '% to ' + famShare('Fall 2024', 'Pop') + '%', text: 'Pop share of the songs from Fall 2022 to Fall 2024. Rap and Hip Hop went from ' + famShare('Fall 2022', 'Rap & Hip Hop') + '% to ' + famShare('Fall 2024', 'Rap & Hip Hop') + '%.' },
+      { big: pct(nonEng, data.length) + '%', text: 'of songs were not in English, across ' + (new Set(data.map(function (r) { return r.lang; })).size - 1) + ' other languages. The typical song runs ' + mmss(median) + '.' }
     ];
     cards.forEach(function (c, i) {
       var a = el('article', 'st-insight');
@@ -252,7 +254,7 @@
     var rows = rowsFor('sem');
     var fams = Object.keys(FAM_COLORS);
     SEMS.forEach(function (s) {
-      var sub = rows.filter(function (r) { return r.sem === s; });
+      var sub = rows.filter(function (r) { return r.sems.indexOf(s) !== -1; });
       var m = count(sub, function (r) { return r.family; });
       var wrap = el('button', 'st-stack-btn' + (state.sem.has(s) ? ' is-active' : ''));
       wrap.type = 'button';
@@ -297,6 +299,7 @@
     var r = rows.slice();
     if (state.sort === 'old') r.sort(function (a, b) { return a.date < b.date ? -1 : a.date > b.date ? 1 : 0; });
     else if (state.sort === 'streams') r.sort(function (a, b) { return (b.streams || 0) - (a.streams || 0); });
+    else if (state.sort === 'times') r.sort(function (a, b) { return b.times - a.times || a.title.localeCompare(b.title); });
     else if (state.sort === 'az') r.sort(function (a, b) { return a.title.localeCompare(b.title); });
     else r.sort(function (a, b) { return a.date < b.date ? 1 : a.date > b.date ? -1 : 0; });
     return r;
@@ -312,14 +315,22 @@
     c.style.borderTopColor = FAM_COLORS[r.family] || '#999';
     var top = el('div', 'st-song-top');
     top.appendChild(el('h3', 'st-song-title', r.title));
-    if (r.top5 > 0) top.appendChild(el('span', 'st-badge', 'Top 5'));
+    var badges = el('span', 'st-badges');
+    if (r.times > 1) badges.appendChild(el('span', 'st-badge st-badge--times', 'Chosen ' + r.times + 'x'));
+    if (r.top5 > 0) badges.appendChild(el('span', 'st-badge', 'Top 5'));
+    if (badges.childNodes.length) top.appendChild(badges);
     c.appendChild(top);
     c.appendChild(el('p', 'st-song-artist', r.artist));
     var tags = el('p', 'st-tags');
-    [r.genre, r.mood, r.lang !== 'English' ? r.lang : null, r.sem].forEach(function (t) { if (t) tags.appendChild(el('span', 'st-tag', t)); });
+    [r.genre, r.mood, r.lang !== 'English' ? r.lang : null, r.sems.length > 1 ? r.sems.length + ' semesters' : r.sem].forEach(function (t, i) {
+      if (!t) return;
+      var tg = el('span', 'st-tag', t);
+      if (i === 3 && r.sems.length > 1) tg.title = r.sems.join(', ');
+      tags.appendChild(tg);
+    });
     c.appendChild(tags);
     var ctx = [];
-    if (r.resp) ctx.push('Chosen by a ' + (r.resp === 'Female' ? 'woman' : 'man'));
+    if (r.resp) ctx.push((r.times > 1 ? 'First chosen by a ' : 'Chosen by a ') + (r.resp === 'Female' ? 'woman' : 'man'));
     if (r.feeling) ctx.push('feeling ' + r.feeling.toLowerCase());
     if (r.weather) ctx.push(r.weather.toLowerCase() + ' outside');
     if (ctx.length) c.appendChild(el('p', 'st-song-ctx', ctx.join(', ') + '.'));

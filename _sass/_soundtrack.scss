@@ -132,12 +132,16 @@ body.url--soundtrack {
 
 .st-insights {
   display: grid;
-  gap: 1em;
-  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.9em;
+  grid-template-columns: 1fr;
+
+  @include breakpoint($small) { grid-template-columns: repeat(2, 1fr); }
+  @include breakpoint($large) { grid-template-columns: repeat(5, 1fr); }
 }
 
 .st-insight {
-  padding: 1.2em 1.1em;
+  min-width: 0;
+  padding: 1.1em 0.95em;
   border: 1px solid $border-color;
   border-left: 4px solid $st-accent;
   border-radius: $border-radius;
@@ -148,9 +152,10 @@ body.url--soundtrack {
 #soundtrack .st-insight-big {
   margin: 0 0 0.3em;
   font-family: $st-serif;
-  font-size: 2em;
+  font-size: 1.7em;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.12;
+  overflow-wrap: anywhere;
   color: $st-primary;
 }
 
@@ -450,6 +455,9 @@ button.st-bar { cursor: pointer; &:hover { background: rgba($st-primary, 0.06); 
   border-radius: 999px;
   background: $st-accent;
 }
+
+.st-badges { display: flex; flex: none; flex-wrap: wrap; justify-content: flex-end; gap: 0.3em; }
+.st-badge--times { background: $st-primary; }
 
 .st-tags { display: flex; flex-wrap: wrap; gap: 0.3em; margin: 0; }
 
