@@ -136,7 +136,7 @@ body.url--soundtrack {
   grid-template-columns: 1fr;
 
   @include breakpoint($small) { grid-template-columns: repeat(2, 1fr); }
-  @include breakpoint($large) { grid-template-columns: repeat(5, 1fr); }
+  @include breakpoint($large) { grid-template-columns: repeat(4, 1fr); }
 }
 
 .st-insight {

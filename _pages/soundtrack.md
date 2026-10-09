@@ -28,7 +28,7 @@ description: "Four semesters of Intro to Sociology, one song at a time. Explore 
   <noscript><p>This page needs JavaScript to show the interactive playlist.</p></noscript>
 
   <section class="st-section" aria-labelledby="st-find-h">
-    <h2 id="st-find-h">Five things the playlist says</h2>
+    <h2 id="st-find-h">Four things the playlist says</h2>
     <div class="st-insights" id="st-insights"></div>
   </section>
 

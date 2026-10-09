@@ -84,22 +84,17 @@
     var womenMale = pct(women.filter(function (r) { return r.singer === 'Male'; }).length, women.length);
     var artists = sortedEntries(count(data, function (r) { return r.artist; }));
     var repeats = data.slice().sort(function (x, y) { return y.times - x.times || x.title.localeCompare(y.title); });
-    var top5 = data.filter(function (r) { return r.top5 > 0; }).length;
-    var nonEng = data.filter(function (r) { return r.lang !== 'English'; }).length;
     function famShare(sem, fam) {
       var s = data.filter(function (r) { return r.sems.indexOf(sem) !== -1; });
       return pct(s.filter(function (r) { return r.family === fam; }).length, s.length);
     }
-    var secs = data.map(function (r) { return r.sec; }).filter(Boolean).sort(function (a, b) { return a - b; });
-    var median = secs[Math.floor(secs.length / 2)];
     var rep = repeats[0];
 
     var cards = [
       { big: pct(male, data.length) + '%', text: 'of the songs were by male artists. Women artists made up ' + pct(data.filter(function (r) { return r.singer === 'Female'; }).length, data.length) + '%.' },
       { big: menMale + '% vs ' + womenMale + '%', text: 'Songs by male artists among the songs men chose, compared with the songs women chose.' },
       { big: rep.title, text: 'was the song chosen most often, ' + rep.times + ' times across ' + rep.sems.length + ' semesters. ' + artists[0][0] + ' has the most different songs (' + artists[0][1] + ').' },
-      { big: famShare('Fall 2022', 'Pop') + '% to ' + famShare('Fall 2024', 'Pop') + '%', text: 'Pop share of the songs from Fall 2022 to Fall 2024. Rap and Hip Hop went from ' + famShare('Fall 2022', 'Rap & Hip Hop') + '% to ' + famShare('Fall 2024', 'Rap & Hip Hop') + '%.' },
-      { big: pct(nonEng, data.length) + '%', text: 'of songs were not in English, across ' + (new Set(data.map(function (r) { return r.lang; })).size - 1) + ' other languages. The typical song runs ' + mmss(median) + '.' }
+      { big: famShare('Fall 2022', 'Pop') + '% to ' + famShare('Fall 2024', 'Pop') + '%', text: 'Pop share of the songs from Fall 2022 to Fall 2024. Rap and Hip Hop went from ' + famShare('Fall 2022', 'Rap & Hip Hop') + '% to ' + famShare('Fall 2024', 'Rap & Hip Hop') + '%.' }
     ];
     cards.forEach(function (c, i) {
       var a = el('article', 'st-insight');
